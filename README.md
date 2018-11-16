@@ -9,19 +9,19 @@ The weights and styles pictured here are approved for use in all external Hewlet
 
 Partner agencies working on HPE projects can download the font here at no cost. Partner agencies are not allowed to distribute MetricHPE to subcontracted resources. Please have any subcontracted resources register for Brand Central to obtain the font directly from us.
 
-![alt text](https://raw.githubusercontent.com/hpe-design/logos/master/Requirements/color-logo.png "HPE Logo")
+![alt text](https://github.com/hpe-design/type/blob/master/Previews/hpe-metric.png "HPE Metric")
 
 ## HPE Simple
 
 HPE Simple is used for page numbers, numerical callouts and infographics. It can be used in copy that supports numerical callouts if the text is around ten words or less. It should not be used in titles, subtitles or body copy.
 
-![alt text](https://raw.githubusercontent.com/hpe-design/logos/master/Requirements/color-logo.png "HPE Logo")
+![alt text](https://github.com/hpe-design/type/blob/master/Previews/hpe-simple.png "HPE Simple")
 
 ## Arial
 
 Arial is our fallback typeface (also known as system typeface) for use with desktop applications and documents, such as PowerPoint, Microsoft Word and Outlook. Use Arial for day-to-day communications and when referncing HPE Metric is not possible.
 
-![alt text](https://raw.githubusercontent.com/hpe-design/logos/master/Requirements/color-logo.png "HPE Logo")
+![alt text](https://github.com/hpe-design/type/blob/master/Previews/hpe-arial.png "Arial Font")
 
 ---
 
